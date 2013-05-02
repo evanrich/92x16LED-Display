@@ -13,3 +13,14 @@ The sign consists of the following:
 Custom cut Acrylic plastic along with various screws to mount and display the sign.
 
 I'm roughly 45-60% done making this, The SURE 3216 panels are mounted to the acrylic, and the power board has been tested so far, I just need to complete the controller boards (arduino prototype works well), and post everything to github.  Please watch this if you are interested in the project and are thinking of doing something like this yourself.
+
+Things to do:
+Create How-to Guide w/ pdfs on each step
+Upload Code
+Upload other board schematics and board files + gerbers
+Upload firmware
+upload various hardware BOM
+upload bom for each piece
+
+
+Please feel free to contact me at evanrich81[at]gmail.com if you have any questions
