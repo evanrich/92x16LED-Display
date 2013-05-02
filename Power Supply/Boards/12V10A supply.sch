@@ -6362,11 +6362,11 @@ Standard 2-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <part name="GND6" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="GND7" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="GND8" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
-<part name="VOUTJACK" library="Texas Instruments" deviceset="MC24356" device=""/>
+<part name="J3" library="Texas Instruments" deviceset="MC24356" device=""/>
 <part name="GND2" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
-<part name="JP1" library="SparkFun-Connectors" deviceset="M02" device="PTH"/>
+<part name="J2" library="SparkFun-Connectors" deviceset="M02" device="PTH"/>
 <part name="GND10" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
-<part name="U$1" library="Texas Instruments" deviceset="5569" device="-02A2MS-225"/>
+<part name="J1" library="Texas Instruments" deviceset="5569" device="-02A2MS-225"/>
 <part name="GND11" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 </parts>
 <sheets>
@@ -6389,11 +6389,11 @@ Standard 2-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <instance part="GND6" gate="1" x="43.18" y="22.86"/>
 <instance part="GND7" gate="1" x="35.56" y="22.86"/>
 <instance part="GND8" gate="1" x="27.94" y="22.86"/>
-<instance part="VOUTJACK" gate="G$1" x="142.24" y="48.26"/>
+<instance part="J3" gate="G$1" x="142.24" y="48.26"/>
 <instance part="GND2" gate="1" x="129.54" y="35.56"/>
-<instance part="JP1" gate="G$1" x="137.16" y="73.66" rot="R180"/>
+<instance part="J2" gate="G$1" x="137.16" y="73.66" rot="R180"/>
 <instance part="GND10" gate="1" x="129.54" y="66.04"/>
-<instance part="U$1" gate="G$1" x="2.54" y="48.26" rot="MR0"/>
+<instance part="J1" gate="G$1" x="2.54" y="48.26" rot="MR0"/>
 <instance part="GND11" gate="1" x="15.24" y="38.1"/>
 </instances>
 <busses>
@@ -6439,17 +6439,17 @@ Standard 2-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <wire x1="43.18" y1="45.72" x2="43.18" y2="25.4" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="VOUTJACK" gate="G$1" pin="-"/>
+<pinref part="J3" gate="G$1" pin="-"/>
 <pinref part="GND2" gate="1" pin="GND"/>
 <wire x1="129.54" y1="43.18" x2="129.54" y2="38.1" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="GND10" gate="1" pin="GND"/>
-<pinref part="JP1" gate="G$1" pin="2"/>
+<pinref part="J2" gate="G$1" pin="2"/>
 <wire x1="129.54" y1="68.58" x2="129.54" y2="71.12" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$1" gate="G$1" pin="-"/>
+<pinref part="J1" gate="G$1" pin="-"/>
 <pinref part="GND11" gate="1" pin="GND"/>
 <wire x1="15.24" y1="43.18" x2="15.24" y2="40.64" width="0.1524" layer="91"/>
 </segment>
@@ -6466,7 +6466,7 @@ Standard 2-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <wire x1="43.18" y1="53.34" x2="53.34" y2="53.34" width="0.1524" layer="91"/>
 <junction x="43.18" y="53.34"/>
 <junction x="27.94" y="53.34"/>
-<pinref part="U$1" gate="G$1" pin="+"/>
+<pinref part="J1" gate="G$1" pin="+"/>
 <wire x1="15.24" y1="53.34" x2="27.94" y2="53.34" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -6482,10 +6482,10 @@ Standard 2-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <junction x="99.06" y="53.34"/>
 <pinref part="CO1" gate="G$1" pin="+"/>
 <junction x="106.68" y="53.34"/>
-<pinref part="VOUTJACK" gate="G$1" pin="+"/>
+<pinref part="J3" gate="G$1" pin="+"/>
 <wire x1="129.54" y1="53.34" x2="116.84" y2="53.34" width="0.1524" layer="91"/>
 <junction x="116.84" y="53.34"/>
-<pinref part="JP1" gate="G$1" pin="1"/>
+<pinref part="J2" gate="G$1" pin="1"/>
 <wire x1="129.54" y1="73.66" x2="116.84" y2="73.66" width="0.1524" layer="91"/>
 <wire x1="116.84" y1="73.66" x2="116.84" y2="53.34" width="0.1524" layer="91"/>
 </segment>
