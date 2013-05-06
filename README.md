@@ -33,15 +33,15 @@ Please feel free to contact me at evanrich81[at]gmail.com if you have any questi
 * https://github.com/evanrich/92x16LED-Display
 
 **Licensing**<br />
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Bluetooth LED Sign</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/evanrich/Bluetooth-LED-Sign" property="cc:attributionName" rel="cc:attributionURL">Evan Richardson</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://code.google.com/p/ht1632c/" rel="dct:source">code.google.com</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">92x16 LED Sign</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/evanrich/Bluetooth-LED-Sign" property="cc:attributionName" rel="cc:attributionURL">Evan Richardson</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://code.google.com/p/ht1632c/" rel="dct:source">code.google.com</a>.
 
 
 
 **Features**
 
-* Small Size: 52.936x39mm ( 2.08" x 1.54")
+* Small Size: Around 1.5"x2"
 * Powered via Vehicle Cigarette plug (other options available)
-* Multiple mounting options: Controller plugs directly into back of Sure 3216 (3MM) or custom 9616 boards
+
 
 **Known issues**
 
