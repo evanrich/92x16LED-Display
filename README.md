@@ -62,4 +62,4 @@ So you want to help contribute and make this better? Awesome!   Here are a few t
 
 **Questions/Support**
 
-* Original library/Sure 3216 information on Arduino.cc Forums @ [http://arduino.cc/forum/index.php/board,6.0.html](http://arduino.cc)
+* Original library/Sure 3216 information on Arduino.cc Forums @ [http://arduino.cc/forum/index.php?PHPSESSID=f279f2d65aa1a33b09df5ffb6d0332fa&topic=50326.0](http://arduino.cc)
