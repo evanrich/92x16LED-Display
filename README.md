@@ -19,7 +19,7 @@ Please feel free to contact me at evanrich81[at]gmail.com if you have any questi
 **UPDATES** <br />
 * 5/5/13 - Created Repository, will begin adding things to it when I have the time.
 
-**Source code**
+**Source code, BOMs, Etc**
 
 * https://github.com/evanrich/92x16LED-Display
 
