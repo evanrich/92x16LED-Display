@@ -12,15 +12,8 @@ The sign consists of the following:
 1x Custom power board to deliver 6A to the sign from a 12V source (my car)
 Custom cut Acrylic plastic along with various screws to mount and display the sign.
 
-I'm roughly 45-60% done making this, The SURE 3216 panels are mounted to the acrylic, and the power board has been tested so far, I just need to complete the controller boards (arduino prototype works well), and post everything to github.  Please watch this if you are interested in the project and are thinking of doing something like this yourself.
+If you want to see how-to instructions on how to assemble this, please look in the Wiki for a complete guide on how to build this sign
 
-Things to do:
-Create How-to Guide w/ pdfs on each step
-Upload Code
-Upload other board schematics and board files + gerbers
-Upload firmware
-upload various hardware BOM
-upload bom for each piece
 
 
 Please feel free to contact me at evanrich81[at]gmail.com if you have any questions
