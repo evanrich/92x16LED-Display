@@ -12,7 +12,7 @@ The sign consists of the following:
 1x Custom power board to deliver 6A to the sign from a 12V source (my car)
 Custom cut Acrylic plastic along with various screws to mount and display the sign.
 
-**If you want to see how-to instructions on how to assemble this, please look in the Wiki for a complete guide on how to build this sign
+**If you want to see how-to instructions on how to assemble this, please look in the Wiki for a complete guide on how to build this sign**
 
 Please feel free to contact me at evanrich81[at]gmail.com if you have any questions
 
