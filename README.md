@@ -16,6 +16,7 @@ Custom cut Acrylic plastic along with various screws to mount and display the si
 Please feel free to contact me at evanrich81[at]gmail.com if you have any questions
 
 **UPDATES** <br />
+* 5/23/13 - Redesigned controller board. Board sent to fab, uploaded BOM/Datasheets for controller
 * 5/5/13 - Created Repository, will begin adding things to it when I have the time.
 
 **Source code, BOMs, Etc**
